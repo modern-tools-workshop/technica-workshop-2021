@@ -12,7 +12,7 @@ This workshop will cover:
 * Creating a map using the Cartopy package
 
 This code is interactive! Click:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/modern-tools-workshop/AGU-python-workshop-2020/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/modern-tools-workshop/technica-workshop-2021/HEAD)
 
 ---
 
